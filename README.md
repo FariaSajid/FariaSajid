@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a frontend developer and a programmer who loves coding, crafting beautiful, responsive, and performant web experiences. <br>I'm currently working on an Auto Car Service Website.<br>I'm diving deeper into React ecosystem, advanced animations.<br>I am also interested in AI Agents and Automations.<br>I'm looking to collaborate on frontend projects.<br>Ask me about C++, HTML, CSS, Javascript or anything frontend!<br>I believe every website needs smooth micro-interactions
+🚀 I'm a frontend developer and a programmer who loves coding, crafting beautiful, responsive, and performant web experiences. <br>- 🔭 I'm currently working on an Auto Car Service Website.<br>- 🌱 I'm diving deeper into React ecosystem, advanced animations.<br>- 💻 I am also interested in AI Agents and Automations.<br>- 👯 I'm looking to collaborate on frontend projects.<br>- 💬 Ask me about C++, HTML, CSS, Javascript or anything frontend!<br>- ⚡ I believe every website needs smooth micro-interactions
 
 
 ## 🌐 Socials:
